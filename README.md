@@ -32,3 +32,16 @@ Este projeto é uma aplicação em linguagem C para gerenciar contatos utilizand
    ```bash
    git clone https://github.com/christorfo/gerenciador-contatos-hash.git
    cd gerenciador-contatos-hash
+##  Observações
+
+- O programa valida o formato de números de telefone no padrão brasileiro, exigindo 11 dígitos numéricos (incluindo o DDD).
+- O tamanho da tabela hash pode ser ajustado na constante TABLE_SIZE, permitindo testar o impacto das colisões na performance.
+- Durante a exibição dos contatos, os números são automaticamente formatados para (DDD) 99999-9999.
+
+##  Aprendizados e Aplicações
+Este projeto foi desenvolvido para consolidar os seguintes conceitos:
+
+- Implementação de tabelas hash em C.
+- Resolução de colisões usando encadeamento.
+- Manipulação de memória dinâmica com malloc e free.
+- Formatação e validação de entradas do usuário.
