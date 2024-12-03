@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação em linguagem C para gerenciar contatos utilizando uma tabela hash como estrutura de dados. Ele foi desenvolvido com o objetivo de explorar conceitos de estruturas de dados, funções hash e manipulação de memória dinâmica.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - **Adicionar Contato**  
   Permite registrar um contato com nome e número de telefone no formato `41 98888 8899`. O número é formatado automaticamente para exibição no formato `(41) 98888-8899`.
@@ -16,7 +16,7 @@ Este projeto é uma aplicação em linguagem C para gerenciar contatos utilizand
 - **Exibir Todos os Contatos**  
   Lista todos os contatos armazenados, organizados pelos índices da tabela hash.
 
-## 🔧 Tecnologias e Técnicas Utilizadas
+##  Tecnologias e Técnicas Utilizadas
 
 - **Linguagem:** C
 - **Estruturas de Dados:**  
@@ -26,7 +26,7 @@ Este projeto é uma aplicação em linguagem C para gerenciar contatos utilizand
   - Validação de números de telefone.  
   - Formatação automática para exibição.  
 
-## 🛠️ Como Executar
+##  Como Executar
 
 1. Clone o repositório:
    ```bash
