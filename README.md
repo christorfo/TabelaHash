@@ -1,6 +1,12 @@
 # Gerenciador de Contatos com Tabela Hash em C
 
 Este projeto é uma aplicação em linguagem C para gerenciar contatos utilizando uma tabela hash como estrutura de dados. Ele foi desenvolvido com o objetivo de explorar conceitos de estruturas de dados, funções hash e manipulação de memória dinâmica.
+├── src/
+│   ├── main.c          # Função principal (main)
+│   ├── contato.c       # Implementação das funções relacionadas aos contatos
+│   ├── contato.h       # Cabeçalho com a definição das funções
+│
+├── README.md           # Descrição do projeto
 
 ##  Funcionalidades
 
